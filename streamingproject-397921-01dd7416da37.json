@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "streamingproject-397921",
+  "private_key_id": "01dd7416da372bd62bf5bf3ee7f7af1e75d05415",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCy8Fz2BsrPn3Jl\nyKUn/b3A2k23sCYVO7rKo0RmjvOx3m5ZXGdY1kFocrKUKFRuRMWAyi97+lx3C345\n0FABtfnJIReTbJwKysgZXK7CJ+/I5Z858tItsxhEpzoCnVUEioGVLvpp/QO06vFU\nZeIA1xU9cdeBvReBYyUia2Q55FoqjRET2+3vFHNyrBMRWyvxxo3/Qx0ntnDb69Th\no90RR+9W3xPrQMUttYd579mrnyRG1XzfYVeWcpWUKGrJYkQ8K2Qb5gDrwhgwbQQx\ng2uReL/gnmAiQINE2hLy4mQf4e2wrZFB7yy1xLn8rGCSYITVrD0le7UKYRbj/3Td\n87tKqxa7AgMBAAECggEACPGvKkEDdcaAUldQIgqZDhqBusYpCsCpWoprCqSBYjxx\naZgPAy30DdBF3gmSBtAuZK/QGQAi2EFDz7uUDctwLwrim2TY++Hpuvk0ZwU8aawV\nZGRSkYqbkoe4hGIjpyfayExiPSMyqNVhg+VzAYKLgwtXFhrciB24WnSuiTiny4UC\nHJ6BVOqjUCskMfaPWgGP/FUOWzXFGYt32jICoTTk7QvdTji56s39/jgzr1X83laX\nnrzUZo285FrxfpLq8vHdpgjx+7oJbIFM62iR8ipWvEn5pHL8oXmnmQ23K4od41yJ\nWyN2hOnhW8/NCHqOLe1UNKb62277ugPrbllxhlmUwQKBgQDouy+X4uYBW5vtzh/P\nRmsXvlbEfyYfF76kJ+/uBvSdYp5LxTD1K+K9pNWEMDVQwfIDGGRf7gWTkN5VKFUG\nRw10OTKugjpGriK3TeFsGimvpTB39h3w9EK5GdnnT0/z/mYzj88kmEGzc0/Q1HAq\nHHOKLrFJ2EIraY8I3YQgmuAAIQKBgQDE1FmokjGFvHf6GcUFITJjNYqfQMGvbTMJ\nPVj3bqStqJsQKfd7VJcRNnIKPseiwo8UBHDF8N/mEz6fvX84Z26SUWAXi34RvHhb\n/qJQZuwWe1ywM0aLhtHg9WxwJnrzWDfWIghlHT8Dx041uVA5DPEStqWyI2T1v0Tf\nrBeGUlWrWwKBgAoro/jPQZ3tkvLhfyJfwW5YMxKDO/c/4mTqGeIdC7OVC7Xj+C++\nqzn+ahZMxQeychEQj9JhZHz+Z7jw+kY79KqPlVdq+YD9OycnkCJZQlkarvOPHd/Z\nzNCqAIvLO4M+Ktk1/6dpv/VHpMVLg1tTwvjW8Yh4muuqwUVx6MREAGYBAoGBAI43\nhMTZRPEFmYbbQdEQCHFIiW3CA3B2rW6apgK6LkDP16KZQBkbqL+mIEYo0GRYwbrL\n7pQHFDAQbapL6HVfvrP4Gj9I6gF0tV57INqJU0J3RiSGGA3Ojy1FB2INW78iWc3d\n70ToGdToGCmXSVC/ehx0XkrVaihqWCBpHuJN8VqLAoGBAJKzX7OGBCdpWAwoSZVp\nFA30buhuLM8HCdQ1vFOrTGLbtyX7Q5ygHftGYYy7TSyhiF+lLyB53aAhVK6GrNWK\nqFRVYvUsCN/TkOjWdMrK3tZLcyTZ3hVSCK1QExuU01qPLw/2Zoxkktgt5yJtxc2b\nDbCO5WizPlOdL+kpIh9SX3Ei\n-----END PRIVATE KEY-----\n",
+  "client_email": "bon-sa@streamingproject-397921.iam.gserviceaccount.com",
+  "client_id": "101100042564970261449",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bon-sa%40streamingproject-397921.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

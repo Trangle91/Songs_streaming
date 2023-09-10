@@ -1,0 +1,40 @@
+2023-09-10 18:05:19 Produced message on topic Sara-Bareilles-plays with value of {"user_id": 95758, "artist": "Sara-Bareilles", "song_id": 6, "song_name": "The same blood", "event_type": "song_completed", "timestamp": "2023-09-09 03:41:19"}
+
+2023-09-10 18:05:22 Produced message on topic Sara-Bareilles-plays with value of {"user_id": 33673, "artist": "Sara-Bareilles", "song_id": 7, "song_name": "Upside down", "event_type": "song_completed", "timestamp": "2023-09-05 00:05:58"}
+
+2023-09-10 18:05:25 Produced message on topic Sara-Bareilles-plays with value of {"user_id": 52760, "artist": "Sara-Bareilles", "song_id": 1, "song_name": "A safe place to land", "event_type": "song_completed", "timestamp": "2023-09-06 00:22:30"}
+
+2023-09-10 18:05:28 Produced message on topic Sara-Bareilles-plays with value of {"user_id": 44006, "artist": "Sara-Bareilles", "song_id": 0, "song_name": "Gravity", "event_type": "song_completed", "timestamp": "2023-09-09 16:05:02"}
+
+2023-09-10 18:05:31 Produced message on topic Sara-Bareilles-plays with value of {"user_id": 23469, "artist": "Sara-Bareilles", "song_id": 1, "song_name": "A safe place to land", "event_type": "song_completed", "timestamp": "2023-09-06 16:21:33"}
+
+2023-09-10 18:05:34 Produced message on topic Sara-Bareilles-plays with value of {"user_id": 96824, "artist": "Sara-Bareilles", "song_id": 3, "song_name": "Manhattan", "event_type": "song_completed", "timestamp": "2023-09-02 18:33:01"}
+
+2023-09-10 18:05:37 Produced message on topic Sara-Bareilles-plays with value of {"user_id": 34418, "artist": "Sara-Bareilles", "song_id": 9, "song_name": "Brave", "event_type": "song_completed", "timestamp": "2023-09-02 15:15:02"}
+
+2023-09-10 18:05:40 Produced message on topic Sara-Bareilles-plays with value of {"user_id": 45458, "artist": "Sara-Bareilles", "song_id": 5, "song_name": "Love song", "event_type": "song_completed", "timestamp": "2023-09-06 02:34:52"}
+
+2023-09-10 18:05:43 Produced message on topic Sara-Bareilles-plays with value of {"user_id": 68946, "artist": "Sara-Bareilles", "song_id": 2, "song_name": "She used to be mine", "event_type": "song_completed", "timestamp": "2023-09-05 07:09:43"}
+
+2023-09-10 18:05:46 Produced message on topic Sara-Bareilles-plays with value of {"user_id": 33826, "artist": "Sara-Bareilles", "song_id": 3, "song_name": "Manhattan", "event_type": "song_completed", "timestamp": "2023-09-02 08:06:03"}
+
+2023-09-10 18:05:49 Produced message on topic Sara-Bareilles-plays with value of {"user_id": 92705, "artist": "Sara-Bareilles", "song_id": 5, "song_name": "Love song", "event_type": "song_completed", "timestamp": "2023-09-08 19:43:30"}
+
+2023-09-10 18:05:52 Produced message on topic Sara-Bareilles-plays with value of {"user_id": 98553, "artist": "Sara-Bareilles", "song_id": 4, "song_name": "Armor", "event_type": "song_completed", "timestamp": "2023-09-03 07:45:54"}
+
+2023-09-10 18:05:55 Produced message on topic Sara-Bareilles-plays with value of {"user_id": 64599, "artist": "Sara-Bareilles", "song_id": 7, "song_name": "Upside down", "event_type": "song_completed", "timestamp": "2023-09-01 11:54:13"}
+
+2023-09-10 18:05:58 Produced message on topic Sara-Bareilles-plays with value of {"user_id": 31683, "artist": "Sara-Bareilles", "song_id": 6, "song_name": "The same blood", "event_type": "song_completed", "timestamp": "2023-09-05 17:34:12"}
+
+2023-09-10 18:06:01 Produced message on topic Sara-Bareilles-plays with value of {"user_id": 33649, "artist": "Sara-Bareilles", "song_id": 7, "song_name": "Upside down", "event_type": "song_completed", "timestamp": "2023-09-07 15:37:40"}
+
+2023-09-10 18:06:04 Produced message on topic Sara-Bareilles-plays with value of {"user_id": 33340, "artist": "Sara-Bareilles", "song_id": 1, "song_name": "A safe place to land", "event_type": "song_completed", "timestamp": "2023-09-01 08:15:18"}
+
+2023-09-10 18:06:07 Produced message on topic Sara-Bareilles-plays with value of {"user_id": 44838, "artist": "Sara-Bareilles", "song_id": 9, "song_name": "Brave", "event_type": "song_completed", "timestamp": "2023-09-09 14:34:01"}
+
+2023-09-10 18:06:10 Produced message on topic Sara-Bareilles-plays with value of {"user_id": 94168, "artist": "Sara-Bareilles", "song_id": 3, "song_name": "Manhattan", "event_type": "song_completed", "timestamp": "2023-09-01 20:19:16"}
+
+2023-09-10 18:06:13 Produced message on topic Sara-Bareilles-plays with value of {"user_id": 71167, "artist": "Sara-Bareilles", "song_id": 3, "song_name": "Manhattan", "event_type": "song_completed", "timestamp": "2023-09-06 02:46:14"}
+
+2023-09-10 18:06:16 Produced message on topic Sara-Bareilles-plays with value of {"user_id": 41424, "artist": "Sara-Bareilles", "song_id": 7, "song_name": "Upside down", "event_type": "song_completed", "timestamp": "2023-09-08 14:57:00"}
+
